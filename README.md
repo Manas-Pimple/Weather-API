@@ -57,6 +57,4 @@ Ensure both servers are running.
 
 Feel free to fork the repo, make changes, and submit pull requests!
 
-## 📄 License
 
-This project is open-source under the MIT License.
